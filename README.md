@@ -27,7 +27,7 @@ The Employee CRUD Spring Boot application is a web application that allows users
 
 ### Prerequisites
 
-- Java Development Kit (JDK) 11 or higher
+- Java Development Kit (JDK) 17 or higher
 - Maven or Gradle
 - MySQL or PostgreSQL installed (or H2 for in-memory database)
 
